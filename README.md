@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm wajahat hassan</h1>
-<h3 align="center">An ambitious web-developer/Analysist</h3>
 
-- 🔭 I’m currently working on **web-development**
+I'm a passionate Machine Learning Engineer with a strong background in building, and optimizing data-driven models. My mission is to create intelligent systems that solve real-world problems.
 
-- 🌱 I’m currently learning **Django**
+---
 
-- 👯 I’m looking to collaborate on **web-development projects**
+### 🔧 Technologies & Tools
 
-- 💬 Ask me about **Django,Gsap,Sql**
-
-- 📫 How to reach me **wajahathassan815@gmail.com**
+- 🐍 Python, NumPy, Pandas, scikit-learn
+- 🤖 TensorFlow, Keras, PyTorch
+- 📊 Matplotlib, Seaborn, Plotly
+- 🔄 ML Pipelines, Model Deployment
+- 🧪 Jupyter, Git, Docker
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
