@@ -9,8 +9,8 @@ I'm a passionate Machine Learning Engineer with a strong background in building,
 - 🐍 Python, NumPy, Pandas, scikit-learn
 - 🤖 TensorFlow, Keras, PyTorch
 - 📊 Matplotlib, Seaborn, Plotly
-- 🔄 ML Pipelines, Model Deployment
-- 🧪 Jupyter, Git, Docker
+- 🔄 ML Pipelines
+- 🧪 Jupyter, Git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
